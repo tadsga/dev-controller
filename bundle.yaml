@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "tadsga-dev-controller"
+description: "CloudBees CI configuration bundle for the tadsga dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/tadsga/dev-controller"
+parent: "base"
